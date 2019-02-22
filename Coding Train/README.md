@@ -4,7 +4,7 @@
 
 
 
-I set out to python and found this https://www.youtube.com/watch?v=5cNnf_7e92Q which is one the fun tutorials from The Coding Train.
+I set out to learn programming languages such as Python in this case and meanwhile I found this https://www.youtube.com/watch?v=5cNnf_7e92Q which is one the tutorials from The Coding Train. Not a sponcer but the passion in the tutorials helps a lot in quickly learning.
 
 Current program approximates upto two decimal digits with 1000 runs.
 Idea is to have a circle with r radius and  a square of side 2r which emcompass the circle as seen in the figure :
