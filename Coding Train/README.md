@@ -6,7 +6,7 @@ I set out to python and found this https://www.youtube.com/watch?v=5cNnf_7e92Q w
 Current program approximates upto two decimal digits with 1000 runs.
 Idea is to have a circle with r radius and  a square of side 2r which emcompass the circle as seen in the figure :
 
-![alt text](http://url/to/img.png) 
+![alt text](https://github.com/Divjyot/Fun-Projects--Python/blob/master/Coding%20Train/SquareCircle.png) 
 
 Now let say we are throwing darts (the number of darts is important for later, keep in mind) at this and some of the darts land IN the circle : cIN ( lets ignore the ones that land ON the circle circumference for the the moment) and some land IN the sqaure but outside the circle. Let suppose the total number of darts thrown are sIN.
 
