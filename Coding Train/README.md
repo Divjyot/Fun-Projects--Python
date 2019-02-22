@@ -1,5 +1,8 @@
 # Approximation of Pi
-##### Pi value first 10 digits are 3.1415926535
+##### First 10 digits of Pi are 3.1415926535 
+###### First million digits, please check https://www.piday.org/million/  .... Well, yes that esclated quickly
+
+
 
 I set out to python and found this https://www.youtube.com/watch?v=5cNnf_7e92Q which is one the fun tutorials from The Coding Train.
 
